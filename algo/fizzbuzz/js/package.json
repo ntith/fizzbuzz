@@ -1,0 +1,9 @@
+{
+    "name": "fizzbuzz",
+    "version": "1.0.0",
+    "devDependencies": {
+        "jasmine": "^4.3.0",
+        "jest": "^29.0.1",
+        "mocha": "^10.0.0"
+    }
+}
